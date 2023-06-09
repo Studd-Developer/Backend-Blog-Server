@@ -1,0 +1,3 @@
+Make sure to install the required dependencies by running npm install express body-parser in your project directory. This example assumes that you have a MongoDB database set up, but you can modify the code to use any other database of your choice.
+
+Please note that this is a simplified implementation to demonstrate the API endpoints. In a production-ready application, you would handle error cases, implement proper data validation, and use a persistent database for data storage.
